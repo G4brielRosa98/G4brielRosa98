@@ -16,7 +16,7 @@ Tenho formação em **redes e fibra óptica (FTTH)**: projetos de rede, cálculo
 | Projeto | O que é | Situação |
 | :---- | :---- | :---- |
 | [roteiro-primeira-vaga](https://github.com/G4brielRosa98/roteiro-primeira-vaga) | Meu plano para a primeira vaga em TI, com o progresso marcado | Em andamento |
-| Calculadora de sub-redes (Node.js) | Calcula rede, broadcast, máscara e hosts a partir de um IP/CIDR | Em breve |
+| [calculadora-subredes](https://github.com/G4brielRosa98/calculadora-subredes) (Node.js) | Calcula rede, broadcast, máscara e hosts a partir de um IP/CIDR, com testes automáticos | Pronto |
 | Calculadora de potência óptica (Python) | Calcula a atenuação de um enlace FTTH e diz se ele passa | Em breve |
 | API de monitoramento de equipamentos (Node.js) | Cadastra equipamentos, testa quem está online e guarda o histórico de quedas | Em breve |
 
